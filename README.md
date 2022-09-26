@@ -1,3 +1,1 @@
-# Advanced-Computer-Vision-Notebooks
-
-## Practising Advanced CV Algorithms
+## Advanced Computer Vision Notebooks
